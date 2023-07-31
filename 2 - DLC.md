@@ -30,7 +30,7 @@
 ## 如何加入官方Discord支持者社区？
 
 1. 确保安装了支持者DLC，然后启动游戏
-2. 确认主界面右下角已经显示绿色的**已连接（CONNECTED）** 后打开 **设置（OPTIONS）**
+2. 确认主界面右下角已经显示绿色的**已连接（CONNECTED）** 后打开**设置（OPTIONS）**
 3. 在**游戏设置（GAMES）** 标签往下拉，找到**Discord支持者验证码（DISCORD SUPPORTER VERIFICATION CODE）**，点击右侧**复制（COPY
    CODE TO CLIPBOARD）** 按钮
 4. 加入Discord上的[Ready Or Not支持者社区](https://discord.gg/nwTC3r4)
