@@ -14,11 +14,11 @@
 
 ## FBI HRT内容包与mod的内容有差别吗？
 
-有。参见 mod作用域一章。
+有。参见[mod作用域](5%20-%20mod.md)。
 
 ## 买了本DLC是否意味着将来可以免费获得所有后续DLC？
 
-不是。参见**问题1**。
+不是。参见[支持者/Supporter DLC内容是什么？对游戏玩法有影响吗？](2%20-%20DLC.md)。
 
 ## 购买后如何安装DLC？
 
@@ -59,6 +59,6 @@
 
 ---
 
-1. FBI HRT：Federal Bureau of Investigation Hostage Rescue Team，（美国）联邦调查局人质救援队
+1. FBI HRT：Hostage Rescue Team of Federal Bureau of Investigation，（美国）联邦调查局人质救援队
 2. NDA：Non-Disclosure Agreement，保密协议
-3. 中文和其他语言译本参见[[附件1 - NDA保密协议多语言译本]]
+3. 中文和其他语言译本参见[附件1 - NDA保密协议多语言译本](附件1%20-%20NDA保密协议多语言译本.md)
