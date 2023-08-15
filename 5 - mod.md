@@ -22,7 +22,7 @@ mod即模组，用于**修改游戏**从而实现游戏原版不提供的功能�
 * Nexus Mods（老牌mod社区）
 
 主要区别在于：mod.io与游戏本体绑定，运作方式类似Steam创意工坊，但是**需要VРN**。Nexus Mods作为老牌mod社区，机制和管控较为成熟，
-**不需要VРN但是下载速度偏慢**<sup>1</sup>
+**不需要VРN但是下载速度偏慢 且不开会员限速3MBps**<sup>1</sup>
 
 ## Ready Or Not的mod分为几类？
 
